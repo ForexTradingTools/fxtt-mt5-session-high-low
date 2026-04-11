@@ -8,6 +8,8 @@
 
 > A free, open-source MT5 indicator that draws the high and low of the Asia, Europe, and New York trading sessions — with background shading, price labels, daily H/L lines, and one-click toggle buttons — directly on your chart.
 
+![FxTT MT5 Session High/Low](screenshots/session-high-low-chart.png)
+
 ---
 
 ## 📌 Overview
