@@ -18,7 +18,7 @@ The **FxTT MT5 Session High/Low** indicator marks the high and low price reached
 
 Session highs and lows are among the most reliable areas of support and resistance in the forex market. Institutional order flow concentrates around these levels, making them essential reference points for breakout, pullback, and range-trading strategies.
 
-**Product page & documentation:** [forextradingtools.eu](https://forextradingtools.eu)
+**Product page & documentation:** [forextradingtools.eu/products/indicators/session-high-low-mt5-free](https://forextradingtools.eu/products/indicators/session-high-low-mt5-free/)
 
 ---
 
@@ -60,7 +60,7 @@ Session highs and lows are among the most reliable areas of support and resistan
 
 ## 🚀 Installation
 
-1. Download `fxtt-session-high-low.ex5` from the [Releases](../../releases) page
+1. Download `fxtt-session-high-low.ex5` from the [Releases](https://github.com/ForexTradingTools/fxtt-mt5-session-high-low/releases) page
    *(or compile `fxtt-session-high-low.mq5` yourself in the MetaEditor)*
 2. Open MT5 → **File → Open Data Folder**
 3. Navigate to `MQL5/Indicators/`
@@ -172,6 +172,16 @@ The indicator includes a compact on-chart button panel for quick control without
 4. **Confirm range-bound conditions** — if price respects both the session high and low over multiple periods, consider a range-trading strategy between them
 5. **Combine with the Daily H/L** — when a session high aligns with the daily high, it creates a stronger resistance confluence
 6. **Set stops beyond session extremes** — session highs and lows are natural stop placement levels for breakout entries
+
+---
+
+## 🖥️ Compatibility
+
+- **Platform:** MetaTrader 5 (MT5)
+- **File type:** `.ex5` compiled file / `.mq5` source file
+- **Version:** 2.20
+- **Instruments:** Forex, gold, indices, crypto, and other MT5-supported symbols
+- **Install folder:** `MQL5/Indicators/`
 
 ---
 
